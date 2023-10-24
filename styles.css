@@ -15,6 +15,8 @@ body {
     border-radius: 10px;
     width: 100%;
     position: relative;
+    background-image: url('images/coinstiny.svg');
+    background-repeat: repeat;
 }
 
 h1 {
@@ -44,7 +46,7 @@ img {
 
 p {
     font-size: 24px; /* 3x bigger */
-    margin: 10px 0;
+    margin: 0px 0;
     line-height: 1.5;
     padding-top: 80px;
 }
@@ -55,6 +57,10 @@ p {
 
 .year {
     color: #7187FD;
+    font-weight: bold;
+}
+
+.money{
     font-weight: bold;
 }
 
