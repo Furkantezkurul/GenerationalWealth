@@ -19,14 +19,15 @@ body {
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 72px; /* 3x bigger */
-    margin-bottom: 20px;
+    font-size: 30px; /* 3x bigger */
+    margin-bottom: 10px;
+    padding-top: 170px;
 }
 
 .intro {
     color: #7187FD;
     font-size: 24px; /* Bigger */
-    margin: 20px 0;
+    margin: 3px 0;
 }
 
 img {
@@ -34,7 +35,6 @@ img {
     height: auto;
     margin: 20px 0;
     border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .scroll {
