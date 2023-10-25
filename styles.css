@@ -102,3 +102,9 @@ p {
     font-weight: bold;
 }
 
+@media (max-width: 768px) {
+    .p{
+        font-size:12px;
+    }
+}
+
